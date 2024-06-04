@@ -55,8 +55,9 @@ to create a database of barcode sequences and their spatial locations.
 | Reagent | Final concentration | Volume (μL) |
 |----|----|----|
 |ExoI|1 U/μL|5|
+|Calf Intestinal Phosphatase|0.05 U/uL|5|
 |10X ExoI buffer|1x|10|
-|Ultrapure water||85|
+|Ultrapure water||80|
 
 1. Wash flow cell by flowing through 500 μL 80% ethanol, then ultrapure water.
 2. Add Exonuclease I mix and incubate for 45 min at 37°C.
